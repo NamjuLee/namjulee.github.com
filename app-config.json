@@ -1,0 +1,43 @@
+{
+  "introduction": {
+    "ko": {
+      "greeting": "안녕하세요 :) NJS Lab 방문을 환영합니다!",
+      "textA": "NJSLab의 이남주 소장입니다! 2004년 NJSTUDIO를 시작으로, 디자인과 전산분야에서 실무, 연구, 집필, 교육을 오고 있으며, 여전히 유아기에 머물고 있는 디자인과 컴퓨테이션 저변 확대에 힘쓰고 있습니다.",
+      "textB": "약 1,315여 개의 영상 (강의 & 워크숍 & 상담 & 커리어전략), 약 150여 개의 글(칼럼, 기고, 연구, 논문), 2권의 책, 그리고 다수의 직/간접적은 프로젝트 통해 디자인과 컴퓨테이션 학습, 연구, 활용에 대한 지식과 경험을 나누며 산업의 전문가/프런티어로서 그 역할을 충실히 해오고 있습니다.",
+      "textC": "강의, 질문, 토론, 그리고 학/석/박사 학위 프로그램/코스웍 카운슬링 등 저변 확대를 위한 관련 활동에 언제나 열려 있습니다. 많은 연락 바랍니다.",
+      "textD": "열정과 호기심이 가득한 디자이너들의 학습, 성장, 성취를 도우며 산업 발전과 저변확대에 기여하기를 기대합니다.",
+      "textE": "이남주 소장 드림"
+    },
+    "en": {
+      "greeting": "Hello there :) Very welcome to NJS Lab!!",
+      "textA": "This is NJ Namju Lee, Director of NJSLab in NJSTUDIO! Since starting NJSTUDIO in 2004, I have been actively involved in practical work, research, writing, and education in the fields of design and computation. I continue to strive for the expansion of design and computation, which is still in its infancy.",
+      "textB": "I have shared my knowledge and experience in learning, researching, and applying design and computation through approximately 1,315 videos (lectures, workshops, consultations, and career strategies), around 150 articles (columns, contributions, research papers), 2 books, and numerous direct and indirect projects. I have faithfully fulfilled my role as an industry expert and pioneer.",
+      "textC": "I am always open to related activities aimed at expanding the field, including lectures, questions, discussions, and counseling for undergraduate, master's, and doctoral programs. Please feel free to contact me.",
+      "textD": "I look forward to contributing to the development and expansion of the industry by helping passionate and curious designers learn, grow, and achieve their goals.",
+      "textE": "Best regards, from NJ Namju Lee :)"
+    }
+  },
+  "copyright" : "© 2004 - 2023 NJSTUDIO All Rights Reserved",
+  "link": [
+    { "word": "1,300", "url": "njs-lab-public/code-for-design" },
+    { "word": "150", "url": "njs-lab-public" }
+  ],
+  "theme": {
+    "dark" : {
+      "mainFontColor" : "rgb(190, 190, 190)",
+      "mainFontColorHighlight" : "rgb(245, 245, 245)",
+      "mainHoverColor" : "#00bdbd",
+      "mainBGColor" : "#232323",
+      "secondBGColor" : "rgb(60,60,60)",
+      "scrollbar" : "#777777"
+    },
+    "light" : {
+      "mainFontColor" : "rgb(100, 100, 100)",
+      "mainFontColorHighlight" : "rgb(10, 10, 10)",
+      "mainHoverColor" : "#00bdbd",
+      "mainBGColor" : "#ededed",
+      "secondBGColor" : "#fafafa",
+      "scrollbar" : "#777777"
+    }
+  }
+}
